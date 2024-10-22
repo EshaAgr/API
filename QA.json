@@ -1,0 +1,15 @@
+{
+	"id": "16db5b9f-cb78-4a41-bf4c-1b8540f1690c",
+	"name": "QA",
+	"values": [
+		{
+			"key": "Url",
+			"value": "https://reqres.in/api/",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-10-22T14:28:49.737Z",
+	"_postman_exported_using": "Postman/11.17.1"
+}
